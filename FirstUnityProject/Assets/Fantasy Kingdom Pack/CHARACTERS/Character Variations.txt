@@ -1,0 +1,5 @@
+Here you can find the base for the character model.
+
+Apply the material variation inside the Materials Folder onto the character.
+
+You can create a wide range of characters by attaching different helmets, shields and weapons to them.

@@ -1,0 +1,18 @@
+Thank you for purchasing the Stylized Fantasy Kingdom/Castle Environment!
+
+You can immediately start with creating your first environment. 
+Open the Prefabs folder, take a look at the variety of assets and start constructing your scene.
+Multiple demoscenes are included aswell.
+
+
+If you like the package we would greatly appreciate a small review on the product page! :)
+I hope you'll have fun creating interesting and beautiful scenes!
+
+
+
+Some tips:
+Use the Post Processing Stack for better visuals (Availabe for free as a Unity Plugin)
+
+In order to use the foliage that is included, you must first create a Terrain, then add the textures in the 'Paint Details' tab and paint the grass/flowers across the terrain. (There are also plenty of tutorials online explaining this)
+
+In order to change the texture of your characters, simply open the Material tab and apply the variation you want onto the character.
